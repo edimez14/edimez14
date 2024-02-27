@@ -2,6 +2,7 @@
 <h3 align="center">I am a junior programmer</h3>
 
 **development of software, web applications and games, making use of modern tools, open source tools and following market trends**
+<p align="center"><img src="/home/edimez14/Documentos/documentos personales/linkedin" alt="css3" width="auto" height="auto"/>
 
 - 🌱 I’m currently learning **development of graphical interfaces with tkinter**
 
