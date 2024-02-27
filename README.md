@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edizon leal</h1>
 <h3 align="center">I am a junior programmer</h3>
 
-  desarrollo de software, aplicaciones web y juegos, haciendo uso de herramientas modernas, 
-  open source y siguiendo las tendencias del mercado
+**development of software, web applications and games, making use of modern tools, open source tools and following market trends**
 
 - 🌱 I’m currently learning **development of graphical interfaces with tkinter**
 
