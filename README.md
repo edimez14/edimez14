@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Edizon leal</h1>
 <h3 align="center">I am a junior programmer</h3>
 
-**development of software, web applications and games, making use of modern tools, open source tools and following market trends**
+**development of web applications and games, making use of modern tools, open source tools and following market trends**
 <p align="center"><img src="/assets/img/Banner de LinkedIn Sencillo Tecnología_2.png" width="auto" height="auto"/>
 
-- 🌱 I’m currently learning **web development with reflex dev**
+- 🌱 I’m currently learning **web development with Reflex dev**
+- 🌱 I’m currently learning **web development with Reactjs**
+- 🌱 I’m currently learning **backend development with django**
+- 🌱 I’m currently learning **game development with Godot engine**
 
 - 📫 How to reach me **edimez14@gmail.com**
 
@@ -24,7 +27,10 @@
 	</a> 
 	<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 		<img src="assets/logos/js.svg" alt="javascript" width="40" height="40"/>
-	</a> 
+	</a>
+	<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+		<img src="assets/logos/react-2.svg" alt="Reactjs" width="40" height="40"/>
+	</a>  
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 		<img src="assets/logos/linux.svg" alt="linux" width="40" height="40"/> 
 	</a>
