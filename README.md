@@ -2,7 +2,7 @@
 <h3 align="center">I am a junior programmer</h3>
 
 **development of software, web applications and games, making use of modern tools, open source tools and following market trends**
-<p align="center"><img src="/assets/img/Banner de LinkedIn Sencillo Tecnología.png" width="auto" height="auto"/>
+<p align="center"><img src="/assets/img/Banner de LinkedIn Sencillo Tecnología_2.png" width="auto" height="auto"/>
 
 - 🌱 I’m currently learning **web development with reflex dev**
 
