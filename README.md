@@ -17,7 +17,7 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=edimez14&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edimez14&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa)
 
