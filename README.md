@@ -6,6 +6,8 @@
 
 <p align="center"><img src="/assets/img/banner_github.png" width="auto" height="auto"/>
 
+---
+
 - 💼 **Founder of Áurea Web:** I develop professional solutions for small and medium-sized businesses, including Landing Pages, E-commerce, Product Catalogs, and Corporate Blogs.
 - 🛠 **Web Stack:** I currently build robust web applications using **React.js** (Frontend) and **Django** (Backend).
 - 🦀 **Performance Focus:** I am implementing high-performance backend systems using **Rust** with the **Axum** framework.
@@ -13,12 +15,22 @@
 
 - 📫 **Contact me:** **edimez14@gmail.com**
 
+---
+
+## 📈 Estadísticas de GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=edimez14&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edimez14&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa)
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/edizon meza leal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edizon meza leal" height="30" width="40" /></a>
-<a href="https://edizon-leal.vercel.app/" target="blank"><img align="center" src="assets/favicon.ico" alt="edizon leal portafolio" height="30" width="40" /></a>
-<a href="https://aurea-web.com" target="blank"><img align="center" src="assets/logo_aurea.png" alt="Áurea web" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edizon meza leal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edizon meza leal" height="40" width="40" /></a>
+<a href="https://edizon-leal.vercel.app/" target="blank"><img align="center" src="assets/favicon.ico" alt="edizon leal portafolio" height="40" width="40" /></a>
+<a href="https://aurea-web.com" target="blank"><img align="center" src="assets/logo_aurea.png" alt="Áurea web" height="40" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
